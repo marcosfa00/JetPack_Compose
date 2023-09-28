@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetPackCompose</string>
+    <string name="minutes_ago">minutes ago</string>
+</resources>
